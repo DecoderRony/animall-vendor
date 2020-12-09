@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "100303496764",
+    "firebase_url": "https://animallvendor.firebaseio.com",
+    "project_id": "animallvendor",
+    "storage_bucket": "animallvendor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100303496764:android:2fa52ae4fc0c5fdddbc539",
+        "android_client_info": {
+          "package_name": "com.example.vendor_animall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100303496764-nb5qefj9hi8qac0npicdl2q65pm9djku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vendor_animall",
+            "certificate_hash": "749934b127eb2153d82cfd5c79b432c6a2f40821"
+          }
+        },
+        {
+          "client_id": "100303496764-a06bjg40l65thsdvqitm7inlokdgf2bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARS3ptr8MQDPD3h38nJ2FfZhKcai_JD9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100303496764-a06bjg40l65thsdvqitm7inlokdgf2bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
