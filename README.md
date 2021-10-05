@@ -1,6 +1,6 @@
 # animall_vendor
 
-A new Flutter application for the Animall E-commerce
+This is a project which is developed by using Flutter and firebase is also used in this project as backend
 
 ## Getting Started
 
